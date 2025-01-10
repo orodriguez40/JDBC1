@@ -12,7 +12,7 @@ public class myJDBC {
         String password = "!2394P0k3"; // Database password
         String query = "SELECT * FROM parks_departments"; // SQL query to fetch data
 
-        // Ensure the MySQL JDBC driver is loaded
+        // Ensure the MySQL JDBC driver is loaded.
         try {
             Class.forName("com.mysql.cj.jdbc.Driver"); // Load MySQL JDBC driver
         } catch (ClassNotFoundException e) {
