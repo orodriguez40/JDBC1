@@ -3,7 +3,7 @@
 ## Course: CEN-3024C-24204
 
 ### Purpose: ###
-This programs purpose is to connect to an MySQL database using Java code. The program will run and request data using a SELECT SQL Statement. It will use JDBC (Java Database Connectivity) to connect to MySQl Server. This specific code will select the table from "parks_and_recreation" database, look for the "parks_departments" table, and prints the results to the console.
+This programs purpose is to connect to an MySQL database using Java code. The program will run and request data using a SELECT SQL Statement. It will use JDBC (Java Database Connectivity) to connect to MySQl Server. This specific code will select the table from "parks_and_recreation" database, look for the "parks_departments" table, and print the results to the console.
 
 ### Prerequisites: ###
 Before running this program, it must meet the following requirements: <br/>
