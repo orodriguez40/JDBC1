@@ -15,7 +15,7 @@ It is suggested that these are the lastest version to ensure successfull compila
 ### Database Setup: ###
 This programs assumes that a database is created containing a "parks_and_recreation" table. If this is true, the program will display information correctly. If the database or table is not create, it will throw an exception.
 
-#### Exceptions ###
+### Exceptions ###
 This program uses try and catch methods to see if the information provided for the database is correct. It will also check if the JDBC driver is within the classpath. if either of these fail, an exception is created and the user will see it in the output.
 
 ### Run the Program: ###
